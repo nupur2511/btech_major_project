@@ -66,6 +66,7 @@ html,body{
   padding: 30px;
   border-radius: 15px;
   box-shadow: 0px 15px 20px rgba(0,0,0,0.1);
+  margin-top:50px;
 }
 .wrapper .title-text{
   display: flex;
